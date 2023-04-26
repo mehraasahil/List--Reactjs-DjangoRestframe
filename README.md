@@ -1,5 +1,5 @@
 # List--Reactjs-DjangoRestframe
-# Dynamic Data Coming from backend to frontend
+# Dynamic List Data Coming from backend to frontend
 
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/118424866/234658397-bd34ba84-6744-43af-97e1-3c6d0fb71f90.png)
